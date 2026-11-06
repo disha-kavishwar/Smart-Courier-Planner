@@ -1,0 +1,7 @@
+id,name,weight,value,priority
+1,Laptop,3,90,5
+2,Mobile,2,80,4
+3,Books,4,40,3
+4,Clothes,2,30,2
+5,Documents,1,100,5
+6,Shoes,3,50,3
